@@ -1,4 +1,4 @@
-package com.example.myapplication1;
+package com.example.myapplication1.API.github;
 
 public class Usuario {
     private String nombre;
